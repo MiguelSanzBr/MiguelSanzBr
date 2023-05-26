@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Estatísticas
+
+<!-- Estatísticas do perfil -->
+
+![Kaizen](https://github-readme-stats.vercel.app/api?username=seu-nome-no-github&show_icons=true&count_private=true&theme=default)
+
+<!-- Most used languages -->
+
+![kaizen](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-no-github&layout=compact&theme=default)
