@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 
 <!-- Estatísticas do perfil -->
 
-![MiguelSanzBr GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-nome-no-github&show_icons=true&count_private=true&theme=default)
+
+![MiguelSanzBr Github stats](https://github-readme-stats.vercel.app/api?username=seu-nome-no-github&show_icons=true&count_private=true&theme=default)
 
 <!-- Most used languages -->
 
-![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![MiguelSanzBr Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-no-github&layout=compact&theme=default)
+<!-- Most used languages -->
+
+![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
