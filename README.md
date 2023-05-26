@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <!-- Most used languages -->
 
-![MiguelSanzBr GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-no-github&layout=compact&theme=default)
+![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
