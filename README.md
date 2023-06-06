@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 
-![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)
+![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MiguelSanzBr&show_icons=true&theme=dark#gh-dark-mode-only)
