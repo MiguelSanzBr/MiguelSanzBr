@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 
 <!-- Estatísticas do perfil -->
 
+<table>
+	<tr>
+		<td>
+			<img src="https://cosmo-github-readme-stats.vercel.app/api?username=MiguelSanzbr&show_icons=true&theme=github_dark" />
+		</td>
+		<td>
+			<img src="https://cosmo-github-readme-stats.vercel.app/api/top-langs/?username=MiguelSanzbr&show_icons=true&theme=github_dark&layout=compact&langs_count=8" />
+		</td>
+	</tr>
+</table>
 
 
-
-![MiguelSanzBr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MiguelSanzBr&show_icons=true&theme=dark#gh-dark-mode-only)
