@@ -74,8 +74,8 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 <hr>
 
 ## Como Entrar em Contato 📞
- - [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)]([https](https://mailto:miguelsanzb.p@gmail.com))
- - [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)]([https](https://t.me/lkaizen))
+- [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelsanzb.p@gmail.com)
+- [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/lkaizen)
 
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
