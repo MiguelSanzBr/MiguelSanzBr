@@ -71,15 +71,6 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelsanzbr&theme=tokyonight">
 </p>
 
-
-# 📜 Frase
-
-<div align="center">
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?quote=o Seu melhor professor é o seu último erro&type=horizontal&theme=catppuccin&border=true"> 
-</div>
-
-
-
 <hr>
 
 ## Como Entrar em Contato 📞
