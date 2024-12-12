@@ -63,7 +63,7 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 
 
 <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsanzbr&theme=xcode&hide_border=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsanzbr&theme=xcode">
         <img src="https://streak-stats.demolab.com/?user=miguelsanzbr&theme=tokyonight"/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelsanzbr&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelsanzbr&theme=tokyonight">
