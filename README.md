@@ -30,7 +30,7 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 ## Ferramentas: ⚒️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git,gitlab,azure,stackoverflow,powershell,notion,selenium,qt,nginx,npm"/>
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git,gitlab,azure,stackoverflow,postman,powershell,selenium,qt,nginx,npm"/>
   </a>
 </p>
 
