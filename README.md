@@ -23,7 +23,7 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 ## Frameworks e Linguagens: 🔠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,php,laravel,py,java,bash"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind,php,laravel,py,java,bash"/>
   </a>
 </p>
 
@@ -37,7 +37,7 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 ## Ide's: 🛠️
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscodium,vscode,pycharm,eclipse,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=neovim,vscodium,vscode,pycharm,eclipse,visualstudio,vim"/>
   </a>
 </p>
 
@@ -51,7 +51,7 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
 ## Estudando: 🎓
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cmake,react,tailwind,ts,redhat,vim"/>
+      <img src="https://skillicons.dev/icons?i=c,cmake,react,ts,redhat"/>
     </a>
   </p>
   
