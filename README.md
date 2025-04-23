@@ -70,6 +70,12 @@ p.s: Se puder, você pode me apoiar marcando meus repositórios com estrela! Agr
   
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelSanzBr/MiguelSanzBr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelSanzBr/MiguelSanzBr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelSanzBr/MiguelSanzBr/output/github-contribution-grid-snake.svg">
+</picture>
+
 <hr>
 
 ## Como Entrar em Contato 📞
