@@ -1,54 +1,28 @@
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=miguelsanzbr.visitor-badge&left_color=blue&right_color=red" />
 
-<p style="color: #f4fc03;">
-Olá, sou Miguel, um desenvolvedor de software do Brasil, com uma rica mistura de experiência e conhecimento.
+# Olá, sou o Miguel 👋
 
-Tenho mais de dois anos de experiência no estudo de programação e um ano atuando profissionalmente no desenvolvimento de programas em Python e na criação de sites com PHP.
+**Engenheiro de Software Back-end** em São Paulo — Go, Python, PHP/Laravel, AWS e IA aplicada.
 
-Estou sempre em busca de aprender mais sobre o que ainda desconheço e ajudar aqueles que têm dúvidas nos assuntos que domino.
+Construo APIs, sistemas distribuídos e infraestrutura em produção. Hoje trabalho em uma fintech de IA conversacional com Open Finance e WhatsApp.
 
-Muito obrigado por ler até aqui! ♥
+### 🚀 Destaques profissionais
+- 🛰️ **Gateway de mensageria em Go** (criador): outbox no Postgres, idempotência em 3 camadas — 900 msg/min com 0% de falhas em teste de carga
+- ⚡ **Agentes de IA com LangGraph**: latência p50 do router reduzida em 40%
+- ☁️ **Migração de produção do GCP para a AWS**, segredos no SSM e observabilidade com Grafana
+- 🧪 **Qualidade**: gates de 100% de cobertura e PHPStan de 1.770 erros para zero
+- 📱 **Automação de WhatsApp em larga escala** (Node.js + Baileys) e portais em Laravel
 
-P.S.: Se puder, apoie-me marcando meus repositórios com estrela! Agradeço antecipadamente! ♥
-</p>
+> A maior parte do meu trabalho profissional está em repositórios privados. Aqui ficam projetos pessoais, estudos e o meu TCC.
 
-<hr>
+### 📌 Projetos em destaque
+- **[ConectaAI](https://github.com/Conecta-IA)** — TCC: atendimento com IA no WhatsApp em 3 microsserviços (Laravel, Node.js/TypeScript e Baileys), tudo em Docker
+- **[Mini-CRM](https://github.com/MiguelSanzBr/teste-laravel-vue)** — Laravel + Inertia + Vue com autenticação, dashboard e CRUD, rodando em Docker
 
-# 🎖️ Habilidades:
-
-## Frameworks e Linguagens: 🔠
+### 🛠️ Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,tailwind,php,laravel,py,java,bash"/>
-  </a>
-</p>
-
-## Ferramentas: ⚒️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,git,gitlab,azure,stackoverflow,postman,powershell,selenium,qt,nginx,npm"/>
-  </a>
-</p>
-
-## IDEs: 🛠️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscodium,vscode,pycharm,eclipse,visualstudio,vim"/>
-  </a>
-</p>
-
-## Sistemas Operacionais: 🖥️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,mint,debian,ubuntu,kali,linux,windows"/>
-  </a>
-</p>
-
-## Estudando: 🎓
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cmake,react,ts,redhat"/>
+    <img src="https://skillicons.dev/icons?i=go,py,fastapi,php,laravel,nodejs,ts,java,postgres,redis,docker,aws,githubactions,prometheus,grafana,linux"/>
   </a>
 </p>
 
@@ -58,11 +32,8 @@ P.S.: Se puder, apoie-me marcando meus repositórios com estrela! Agradeço ante
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsanzbr&theme=react-dark" width="688">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelsanzbr&theme=tokyonight" width="688">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelsanzbr&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelsanzbr&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelsanzbr&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miguelsanzbr&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelsanzbr&theme=tokyonight">
 </p>
 
 <picture>
@@ -73,8 +44,9 @@ P.S.: Se puder, apoie-me marcando meus repositórios com estrela! Agradeço ante
 
 <hr>
 
-## Como Entrar em Contato 📞
-- [![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelsanzb.p@gmail.com)
-- [![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/lkaizen)
+## 📞 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/miguel-sanz-boragan)
+[![Gmail](https://img.shields.io/badge/Gmail-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelsanzb.p@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0F0F0F?style=for-the-badge&logo=telegram&logoColor=00CED1)](https://t.me/lkaizen)
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
