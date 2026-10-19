@@ -7,7 +7,7 @@
 Construo APIs, mensageria e infraestrutura que aguentam carga e falha. Disponível para vaga back-end pleno (SP híbrido/presencial ou remoto).
 
 ### 🚀 Destaques profissionais
-- 🛰️ **Gateway de mensageria em Go** (criador e arquiteto): outbox no Postgres com `SKIP LOCKED`, idempotência em 3 camadas. 900 msg/min por 10 min, 0% de falhas, 9.901/9.901 entregues em teste de carga na AWS
+- 🛰️ **Gateway de mensageria em Go** (criador e arquiteto): outbox no Postgres com `SKIP LOCKED`, idempotência em 3 camadas. 900 msg/min por 10 min, 0% de falhas e p95 de 1,05 s em teste de carga na AWS
 - 💰 **API de coleta de notícias** em PHP/Laravel + MongoDB, criada do zero: custo 99% menor (~R$ 107 mil/ano)
 - ☁️ **Migração de produção do GCP para a AWS**, segredos no SSM via OIDC, observabilidade com Prometheus e Grafana
 - 🧪 **Qualidade**: TDD, gates de 100% de cobertura, PHPStan de 1.770 erros para zero
