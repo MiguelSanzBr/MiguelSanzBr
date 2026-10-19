@@ -2,38 +2,44 @@
 
 # Olá, sou o Miguel 👋
 
-**Engenheiro de Software Back-end** em São Paulo — Go, Python, PHP/Laravel, AWS e IA aplicada.
+**Engenheiro de Software Back-end** em São Paulo: Go, PHP/Laravel e Python, com AWS em produção.
 
-Construo APIs, sistemas distribuídos e infraestrutura em produção. Hoje trabalho em uma fintech de IA conversacional com Open Finance e WhatsApp.
+Construo APIs, mensageria e infraestrutura que aguentam carga e falha. Disponível para vaga back-end pleno (SP híbrido/presencial ou remoto).
 
 ### 🚀 Destaques profissionais
-- 🛰️ **Gateway de mensageria em Go** (criador): outbox no Postgres, idempotência em 3 camadas — 900 msg/min com 0% de falhas em teste de carga
-- ⚡ **Agentes de IA com LangGraph**: latência p50 do router reduzida em 40%
-- ☁️ **Migração de produção do GCP para a AWS**, segredos no SSM e observabilidade com Grafana
-- 🧪 **Qualidade**: gates de 100% de cobertura e PHPStan de 1.770 erros para zero
-- 📱 **Automação de WhatsApp em larga escala** (Node.js + Baileys) e portais em Laravel
+- 🛰️ **Gateway de mensageria em Go** (criador e arquiteto): outbox no Postgres com `SKIP LOCKED`, idempotência em 3 camadas. 900 msg/min por 10 min, 0% de falhas, 9.901/9.901 entregues em teste de carga na AWS
+- 💰 **API de coleta de notícias** em PHP/Laravel + MongoDB, criada do zero: custo 99% menor (~R$ 107 mil/ano)
+- ☁️ **Migração de produção do GCP para a AWS**, segredos no SSM via OIDC, observabilidade com Prometheus e Grafana
+- 🧪 **Qualidade**: TDD, gates de 100% de cobertura, PHPStan de 1.770 erros para zero
 
-> A maior parte do meu trabalho profissional está em repositórios privados. Aqui ficam projetos pessoais, estudos e o meu TCC.
+> A maior parte do meu trabalho profissional está em repositórios privados (o gráfico abaixo inclui essas contribuições). Aqui ficam os projetos open source.
 
-### 📌 Projetos em destaque
-- **[ConectaAI](https://github.com/Conecta-IA)** — TCC: atendimento com IA no WhatsApp em 3 microsserviços (Laravel, Node.js/TypeScript e Baileys), tudo em Docker
-- **[Mini-CRM](https://github.com/MiguelSanzBr/teste-laravel-vue)** — Laravel + Inertia + Vue com autenticação, dashboard e CRUD, rodando em Docker
+### 📌 Projetos open source
+Configuradores Linux para periféricos que só tinham software para Windows. Fiz a engenharia reversa do protocolo USB HID de cada app oficial (.NET, Electron e C++ nativo no Ghidra), validei cada byte no hardware real e publiquei CLI + GUI com testes contra um emulador do dispositivo.
+
+| Projeto | O que faz | ⭐ |
+|---|---|---|
+| **[8bitdo-ultimate2-linux](https://github.com/MiguelSanzBr/8bitdo-ultimate2-linux)** | Remapeamento, sticks, gatilhos, giroscópio, LEDs e perfis do 8BitDo Ultimate 2 | 32 |
+| **[gamesir-cyclone2-linux](https://github.com/MiguelSanzBr/gamesir-cyclone2-linux)** | Configurador do controle GameSir Cyclone 2 | 16 |
+| **[attackshark-x11-linux](https://github.com/MiguelSanzBr/attackshark-x11-linux)** | DPI, polling, botões, iluminação e bateria do mouse ATTACK SHARK X11 | 7 |
+
+Python + Tk direto no `/dev/hidraw`, sem daemon · 100% de cobertura · `.deb`, AppImage e [repositório Flatpak assinado](https://github.com/MiguelSanzBr/flatpak) · MIT
+
+Também: **[Mini-CRM](https://github.com/MiguelSanzBr/teste-laravel-vue)** em Laravel + Inertia + Vue 3 com Docker · **[Portfólio](https://miguelsanzbr.github.io)**
 
 ### 🛠️ Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,fastapi,php,laravel,nodejs,ts,java,postgres,redis,docker,aws,githubactions,prometheus,grafana,linux"/>
+    <img src="https://skillicons.dev/icons?i=go,php,laravel,py,fastapi,postgres,redis,mongodb,docker,aws,githubactions,prometheus,grafana,linux"/>
   </a>
 </p>
 
 <hr>
 
-## 📈 GitHub Analítico
+## 📈 Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelsanzbr&theme=react-dark" width="688">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miguelsanzbr&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miguelsanzbr&theme=tokyonight">
 </p>
 
 <picture>
