@@ -34,7 +34,7 @@ Construo APIs, mensageria e infraestrutura que aguentam carga e falha. Disponív
 
 Python + Tk direto no `/dev/hidraw`, sem daemon · 100% de cobertura · `.deb`, AppImage e [repositório Flatpak assinado](https://github.com/MiguelSanzBr/flatpak) · MIT
 
-Versão web de cada um, direto no Chrome via WebHID: [8BitDo](https://miguelsanzbr.github.io/8bitdo-ultimate2-web/) · [GameSir](https://miguelsanzbr.github.io/gamesir-cyclone2-web/) · [ATTACK SHARK](https://miguelsanzbr.github.io/attackshark-x11-web/)
+Versão web de cada um, direto no Chrome via WebHID: [8BitDo](https://miguelsanzbr.github.io/8bitdo-ultimate2-linux/) · [GameSir](https://miguelsanzbr.github.io/gamesir-cyclone2-linux/) · [ATTACK SHARK](https://miguelsanzbr.github.io/attackshark-x11-linux/)
 
 Também: **[Mini-CRM](https://github.com/MiguelSanzBr/teste-laravel-vue)** em Laravel + Inertia + Vue 3 com Docker · **[Portfólio](https://miguelsanzbr.github.io)**
 
